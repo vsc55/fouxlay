@@ -1,3 +1,3 @@
 # Current plexpass release
->media-tv/plex-media-server-0.9.12.0
+>media-tv/plex-media-server-0.9.12.1
 =media-tv/plex-home-theater-9999
